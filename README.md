@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aashraya Ghimire
 
-<!--
-**Aashraya-Ghimire/Aashraya-Ghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a fresher developer focused on building clean, user-friendly digital experiences using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 **Languages**: JavaScript 
+- ⚙️ **Frameworks**: React.js | Node.js 
+- 🛢️ **Database**:  MongoDB
+- 🌐 **Web**: HTML | CSS | Tailwind CSS 
+- 🔧 **Tools**: Git | VS Code | Postman | Figma
+
+---
+
+## 📌 Projects
+
+- 🧮 [**Functional Calculator**](https://github.com/Aashraya-Ghimire/Functional-calculator-using-react) – A responsive calculator built in React.
+- 🛍️ [**E-commerce UI**](https://feastfoodd.netlify.app/) – Designed a full UI/UX shopping experience using React & Tailwind.
+
+> More coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+![Aashraya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashraya-Ghimire&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashraya-Ghimire&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: (https://aashraya-ghimire.vercel.app/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/aashraya-ghimire-886486319/)
+- 📧 Email: aashrayaghimire6@gmail.com
+
+Thanks for visiting! 😊
