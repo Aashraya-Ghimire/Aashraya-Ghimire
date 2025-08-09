@@ -25,10 +25,10 @@ Welcome to my GitHub! I'm a fresher developer focused on building clean, user-fr
 
 ## 📈 GitHub Stats
 
-![Aashraya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashraya-Ghimire&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashraya-Ghimire&layout=compact)
+![Aashraya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashraya-Ghimire&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashraya-Ghimire&layout=compact&theme=dark)
 
----
+----
 
 ## 📫 Let's Connect
 
